@@ -1,0 +1,1 @@
+Revenous is a single page website. This is a comprehensive project that demonstrates different elements of React JS. This includes props, parents child relationships, API calls, HTML and CSS structure,  
